@@ -6,6 +6,6 @@ Interactive Product Page that changes the color of the background with the color
 
 ### Here are a few screenshots. 
 
-![screenshot of space gray] (https://github.com/devionb/Interactive_product_page/images/Screen_Shot_space_gray.jpg)
+![screenshot of space gray](https://github.com/devionb/Interactive_product_page/images/Screen_Shot_space_gray.jpg)
 
-![screenshot of gold] (https://github.com/devionb/Interactive_product_page/images/Screen_Shot_gold.jpg)
+![screenshot of gold](https://github.com/devionb/Interactive_product_page/images/Screen_Shot_gold.jpg)
