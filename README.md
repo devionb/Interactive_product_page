@@ -1,5 +1,5 @@
 # Interactive_product_page
-Interactive Product Page that changes the color of the background with the color of the product. HTML, JavaScript and CSS are used. 
+Interactive Product Page that changes the color of the background with the color of the product. HTML, JavaScript and CSS are used. Live server needs to be used.  
 
 ## This is just a basic interactive product page.
 ## Basic transisitionas are used. 
